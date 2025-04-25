@@ -32,6 +32,15 @@ Este proyecto se hizo para hacer ejercicios de C# y mover los deditos.
 3. Sockets y servidor.
 	* Hacer un mini C2
 	* Mini C2 con criptografia
+	* Casos de uso
+	** Shell remota
+	** Comunicacion TCP
+	** Beacon automatico
+	** Subir y descargar archivos
+	** Enumeracion
+	** Pivoting
+	** Carga de plugins
+
 
 4. Descargar datos con http.
 
@@ -52,8 +61,15 @@ Este proyecto se hizo para hacer ejercicios de C# y mover los deditos.
 
 
 
+## Cheeatseet
 
+´´´bash
+# Crea aplicacion de consola
+dotnet new console
+# Lanza la aplicacion de consola
+dotnet run
 
+´´´
 
 
 
